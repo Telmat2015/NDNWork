@@ -18,3 +18,11 @@
   p2p.Install(nodes.Get(4), nodes.Get(5));
 </b>
 </pre>
+
+
+ // Consumer
+ <b> ndn::AppHelper consumerHelper("ns3::ndn::ConsumerCbr");</b>
+  // Consumer will request /prefix/0, /prefix/1, ...
+  <b>consumerHelper.SetPrefix("/prefix");</b>
+  <b>consumerHelper.SetAttribute("Frequency", StringValue("10"));</b> // 10 interests a second
+  <b>consumerHelper.Install(nodes.Get(0));</b>                        // first node
