@@ -28,7 +28,7 @@
   ndn::AppHelper consumerHelper("ns3::ndn::ConsumerCbr");
   <i><b>// Consumer will request /prefix/0, /prefix/1, ...</i></b>
   consumerHelper.SetPrefix("/prefix");
-  consumerHelper.SetAttribute("Frequency", StringValue("100"));<b> // 10 interests a second</b>
+  consumerHelper.SetAttribute("Frequency", StringValue("100"));<b> // 100 interests a second</b>
   consumerHelper.Install(nodes.Get(0));<b>// first node</b>
 </pre>
 
