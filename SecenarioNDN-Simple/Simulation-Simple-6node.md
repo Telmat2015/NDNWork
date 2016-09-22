@@ -8,7 +8,7 @@
 </pre>
   
 <pre>  
-  <i><b>//// Connecting nodes using two links</b></i>
+  <i><b>// Connecting nodes using 5 links</b></i>
 
   PointToPointHelper p2p;
   p2p.Install(nodes.Get(0), nodes.Get(1));
