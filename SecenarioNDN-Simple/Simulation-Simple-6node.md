@@ -1,6 +1,11 @@
 
 ### Simulation-Simple-6node
 
+
+
+![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/Simple-scenario-Coding/Simulation-Simple-6node.md/image/Screenshot%20from%202016-09-22%2022-21-52.png)
+
+
 <pre>
   <i><b>// Creating nodes</b></i>
   NodeContainer nodes;
