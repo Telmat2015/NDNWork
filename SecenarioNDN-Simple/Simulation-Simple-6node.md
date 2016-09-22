@@ -24,6 +24,7 @@
 </b>
 </pre>
 
+<pre>
 
   <i><b>// Consumer</b></i>
   ndn::AppHelper consumerHelper("ns3::ndn::ConsumerCbr");
@@ -31,3 +32,4 @@
   <b>consumerHelper.SetPrefix("/prefix");</b>
   consumerHelper.SetAttribute("Frequency", StringValue("10"));<b> // 10 interests a second</b>
   consumerHelper.Install(nodes.Get(0));<b>// first node</b>
+</pre>
