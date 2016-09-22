@@ -33,3 +33,12 @@
   consumerHelper.SetAttribute("Frequency", StringValue("10"));<b> // 10 interests a second</b>
   consumerHelper.Install(nodes.Get(0));<b>// first node</b>
 </pre>
+
+<pre>
+  <i><b>// Producer</b></i>
+  ndn::AppHelper producerHelper("ns3::ndn::Producer");
+  <i><b>// Producer will reply to all requests starting with /prefix</b></i>
+  producerHelper.SetPrefix("/prefix");
+  producerHelper.SetAttribute("PayloadSize", StringValue("1024"));
+  producerHelper.Install(nodes.Get(2)); <i><b>// last node</b></i>
+</pre>
