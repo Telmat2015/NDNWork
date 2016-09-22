@@ -45,7 +45,7 @@
   producerHelper.Install(nodes.Get(5)); <i><b>// last node</b></i>
 </pre>
 
-### 2. Running Simulation All Node
+### 3. Running Simulation All Node
 
 
 ![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/Simple-scenario-Coding/Simulation-Simple-6node.md/image/Screenshot%20from%202016-09-22%2023-49-37.png)
