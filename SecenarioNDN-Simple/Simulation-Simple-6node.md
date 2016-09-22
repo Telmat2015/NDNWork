@@ -1,12 +1,13 @@
 
 ### Simulation-Simple-6node
+<font color=blue>Panda MZ</color>
 
 <pre>
-// Creating nodes
- <b>
+<text// Creating nodes
+ 
   NodeContainer nodes;
   nodes.Create(6);
-</b>
+
 
   // Connecting nodes using two links
 <b>
