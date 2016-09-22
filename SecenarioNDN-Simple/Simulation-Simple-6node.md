@@ -5,8 +5,9 @@
   <i><b>// Creating nodes</b></i>
   NodeContainer nodes;
   nodes.Create(6);
+</pre>
   
-  
+<pre>  
   // Connecting nodes using two links
 
   PointToPointHelper p2p;
