@@ -38,5 +38,5 @@
   <i><b>// Producer will reply to all requests starting with /prefix</b></i>
   producerHelper.SetPrefix("/prefix");
   producerHelper.SetAttribute("PayloadSize", StringValue("1024"));
-  producerHelper.Install(nodes.Get(2)); <i><b>// last node</b></i>
+  producerHelper.Install(nodes.Get(5)); <i><b>// last node</b></i>
 </pre>
