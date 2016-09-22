@@ -1,16 +1,14 @@
 
 ### Simulation-Simple-6node
-<font color=blue>Panda MZ</color>
 
 <pre>
-<text// Creating nodes
- 
+  <i>// Creating nodes</i>
   NodeContainer nodes;
   nodes.Create(6);
-
-
+  
+  
   // Connecting nodes using two links
-<b>
+
   PointToPointHelper p2p;
   p2p.Install(nodes.Get(0), nodes.Get(1));
   p2p.Install(nodes.Get(1), nodes.Get(2));
