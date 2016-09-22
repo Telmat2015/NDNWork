@@ -2,7 +2,7 @@
 ### Simulation-Simple-6node
 
 <pre>
-  <i>// Creating nodes</i>
+  <i><b>// Creating nodes</b></i>
   NodeContainer nodes;
   nodes.Create(6);
   
