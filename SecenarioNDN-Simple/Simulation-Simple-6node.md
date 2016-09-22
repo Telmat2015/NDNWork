@@ -47,11 +47,11 @@
 
 ### 3. Running Simulation All Node
 
-![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/Simple-scenario-Coding/Simulation-Simple-6node.md/image/Screenshot%20from%202016-09-22%2023-49-37.png)
+![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-22%2023-49-37.png)
 
 
 ### 4. Running Simulation Selected Node
 
-![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/Simple-scenario-Coding/Simulation-Simple-6node.md/image/Screenshot%20from%202016-09-23%2000-19-43.png)
+![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-23%2000-19-43.png)
 
-![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/Simple-scenario-Coding/Simulation-Simple-6node.md/image/Screenshot%20from%202016-09-23%2000-23-21.png)
+![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-23%2000-23-21.png)
