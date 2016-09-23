@@ -62,3 +62,37 @@
 <pre>
 root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Producer:ndn.Consumer ./waf --run=ndn-simple2</b>
 </pre>
+
+<b>output</b>
+<pre>
+0s -1 ndn.Consumer:Consumer()
+0s -1 ndn.Producer:Producer()
+0s 0 ndn.Consumer:StartApplication()
+0s 5 ndn.Producer:StartApplication()
+0s 0 ndn.Consumer:SendPacket()
+0s 0 ndn.Consumer:SendPacket(): [INFO ] > Interest for 0
+0s 0 ndn.Consumer:WillSendOutInterest(): [DEBUG] Trying to add 0 with +0.0ns. already 0 items
+0.01s 0 ndn.Consumer:SendPacket()
+0.01s 0 ndn.Consumer:SendPacket(): [INFO ] > Interest for 1
+0.01s 0 ndn.Consumer:WillSendOutInterest(): [DEBUG] Trying to add 1 with +10000000.0ns. already 1 items
+0.02s 0 ndn.Consumer:SendPacket()
+0.02s 0 ndn.Consumer:SendPacket(): [INFO ] > Interest for 2
+0.02s 0 ndn.Consumer:WillSendOutInterest(): [DEBUG] Trying to add 2 with +20000000.0ns. already 2 items
+0.03s 0 ndn.Consumer:SendPacket()
+0.03s 0 ndn.Consumer:SendPacket(): [INFO ] > Interest for 3
+0.03s 0 ndn.Consumer:WillSendOutInterest(): [DEBUG] Trying to add 3 with +30000000.0ns. already 3 items
+0.04s 0 ndn.Consumer:SendPacket()
+0.04s 0 ndn.Consumer:SendPacket(): [INFO ] > Interest for 4
+0.04s 0 ndn.Consumer:WillSendOutInterest(): [DEBUG] Trying to add 4 with +40000000.0ns. already 4 items
+0.05s 0 ndn.Consumer:SendPacket()
+|
+|
+|
+|
+99.99s 0 ndn.Consumer:WillSendOutInterest(): [DEBUG] Trying to add 9999 with +99990000000.0ns. already 14 items
+99.9912s 5 ndn.Producer:OnInterest(0x9835f58, 0x98f847c)
+99.9912s 5 ndn.Producer:OnInterest(): [INFO ] node(5) responding with Data: /prefix/%FE%27%0A
+99.9936s 0 ndn.Consumer:OnData(0x984b408, 0xa0b8ba4)
+99.9936s 0 ndn.Consumer:OnData(): [INFO ] < DATA for 9985
+99.9936s 0 ndn.Consumer:OnData(): [DEBUG] Hop count: 5
+</pre>
