@@ -55,3 +55,10 @@
 ![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-23%2000-19-43.png)
 
 ![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-23%2000-23-21.png)
+
+
+### 4. Running Simulation with LOG Model
+
+<pre>
+root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Producer:ndn.Consumer ./waf --run=ndn-simple2</b>
+</pre>
