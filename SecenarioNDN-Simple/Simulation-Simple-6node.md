@@ -57,7 +57,7 @@
 ![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-23%2000-23-21.png)
 
 
-### 4. Running Simulation with LOG Model
+### 5. Running Simulation with LOG Model
 
 <pre>
 root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Producer:ndn.Consumer ./waf --run=ndn-simple2</b>
@@ -95,4 +95,9 @@ root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Pro
 99.9936s 0 ndn.Consumer:OnData(0x984b408, 0xa0b8ba4)
 99.9936s 0 ndn.Consumer:OnData(): [INFO ] < DATA for 9985
 99.9936s 0 ndn.Consumer:OnData(): [DEBUG] Hop count: 5
+</pre>
+
+### 5.  LOG Model direction output file.xt
+<pre>
+root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Producer:ndn.Consumer ./waf --run=ndn-simple2 2> LOG_Simple2.txt</b>
 </pre>
