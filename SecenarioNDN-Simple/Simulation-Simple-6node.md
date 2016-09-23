@@ -101,3 +101,5 @@ root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Pro
 <pre>
 root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/ns-3#  <b>NS_LOG=ndn.Producer:ndn.Consumer ./waf --run=ndn-simple2 2> LOG_Simple2.txt</b>
 </pre>
+
+output to file : [<b>LOG_Simple2.txt</b>](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/LOG_Simple2.txt)
