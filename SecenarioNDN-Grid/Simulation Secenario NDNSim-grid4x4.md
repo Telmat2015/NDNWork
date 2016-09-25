@@ -6,7 +6,7 @@
 ### 2. Sourcecode Simulation-Simple-6node
 
 <pre>
-  <i><b>//  Creating 3x3 topology </b></i>
+  <i><b>//  Creating 4x4 topology </b></i>
   PointToPointHelper p2p;
   PointToPointGridHelper grid(4, 4, p2p);
   grid.BoundingBox(100, 100, 200, 200);
