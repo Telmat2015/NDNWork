@@ -1,7 +1,7 @@
 
 #  Grid scenario
 
-This scenario (ndn-grid.cpp) simulates a grid topology, which is constructed using PointToPointLayout NS-3 module. FIB is populated using [GlobalRoutingHelper ](http://ndnsim.net/2.0/doxygen/classns3_1_1ndn_1_1GlobalRoutingHelper.html) ([ndnSIM helpers ](http://ndnsim.net/2.0/helpers.html)). The content store structure of NFD is used in all the nodes. Consumer is simulated using ConsumerCbr reference application and generates Interests towards the producer with frequency of 100 interests per second (see ndnSIM applications). Producer is simulated using Producer class, which is used to satisfy all incoming Interests with virtual payload data (1024 bytes).
+This scenario (ndn-grid.cpp) simulates a grid topology, which is constructed using PointToPointLayout NS-3 module. FIB is populated using [GlobalRoutingHelper ](http://ndnsim.net/2.0/doxygen/classns3_1_1ndn_1_1GlobalRoutingHelper.html) ( see [ndnSIM helpers ](http://ndnsim.net/2.0/helpers.html)). The content store structure of NFD is used in all the nodes. Consumer is simulated using ConsumerCbr reference application and generates Interests towards the producer with frequency of 100 interests per second (see ndnSIM applications). Producer is simulated using Producer class, which is used to satisfy all incoming Interests with virtual payload data (1024 bytes).
 
 The following code represents all that is necessary to run such a simple scenario
 ##### Tabel Of Content
