@@ -19,3 +19,21 @@
   NodeContainer consumerNodes;
   consumerNodes.Add(grid.GetNode(3, 3));
 </pre>
+
+
+<pre>
+
+  ndn::AppHelper consumerHelper("ns3::ndn::ConsumerCbr");
+  consumerHelper.SetPrefix(prefix);
+  consumerHelper.SetAttribute("Frequency", StringValue("100")); <i><b>// 100 interests a second</b></i>
+  consumerHelper.Install(consumerNodes);
+
+</pre>
+
+
+<pre>
+  ndn::AppHelper producerHelper("ns3::ndn::Producer");
+  producerHelper.SetPrefix(prefix);
+  producerHelper.SetAttribute("PayloadSize", StringValue("1024"));
+  producerHelper.Install(producer);
+</pre>
