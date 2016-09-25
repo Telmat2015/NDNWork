@@ -37,3 +37,8 @@
   producerHelper.SetAttribute("PayloadSize", StringValue("1024"));
   producerHelper.Install(producer);
 </pre>
+
+
+### 3. Running Simulation All Node
+
+![alt tag](https://github.com/syaifulahdan/ndndlearn/blob/master/SecenarioNDN-Simple/image/Screenshot%20from%202016-09-22%2023-49-37.png)
