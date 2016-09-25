@@ -10,4 +10,4 @@ Producer is simulated using [<b>(Producer)</b>](http://ndnsim.net/2.0/doxygen/cl
 
    -  Assignment 1: <b>Simulation Simple </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple.md) | [[discussion and source code]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/ndn-simple.cpp)
    
-   -  Assignment 2: <b>Simulation Simple 6 Node</b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple-6node.md) | [[discussion and source code]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/simulation-simple-6node.py)
+   -  Assignment 2: <b>Simulation Simple 6 Node </b>[[read] ](https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/Simulation-Simple-6node.md) | [[discussion and source code]] (https://github.com/Telmat2015/NDNWork/blob/master/SecenarioNDN-Simple/simulation-simple-6node.py)
