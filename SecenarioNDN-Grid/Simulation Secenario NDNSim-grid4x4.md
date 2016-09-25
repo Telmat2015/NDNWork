@@ -14,7 +14,7 @@
 
 
 <pre>
-// Getting containers for the consumer/producer
+<i><b>// Getting containers for the consumer/producer</b></i>
   Ptr<Node> producer = grid.GetNode(0, 0);
   NodeContainer consumerNodes;
   consumerNodes.Add(grid.GetNode(3, 3));
