@@ -1,6 +1,6 @@
 
 
-   -  <b>NDN Frequently Asked Questions (FAQ)</b>[[read] ](https://named-data.net/project/faq/) 
+   -  <b>NDN Frequently Asked Questions (FAQ)</b> [[read] ](https://named-data.net/project/faq/) 
 
 ##### Tabel Of Content
 
