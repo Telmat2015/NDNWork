@@ -1,8 +1,6 @@
-
-
-   -  <b>NDN Frequently Asked Questions (FAQ)</b> [[read] ](https://named-data.net/project/faq/) 
-
 ##### Tabel Of Content
+
+   -  NDN Frequently Asked Questions :<b>(FAQ) </b> [[read] ](https://named-data.net/project/faq/) 
 
    -  exercise 1: <b>Instalation NDNSIm </b>[[read] ](https://github.com/Telmat2015/NDNWork/tree/master/NDN-Installation) 
    
