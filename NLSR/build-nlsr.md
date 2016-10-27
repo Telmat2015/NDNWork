@@ -3,9 +3,9 @@
 
 Execute the following commands to build NLSR:
 
-./waf configure
-./waf
-sudo ./waf install
+<li>./waf configure</li>
+<li>./waf</li>
+<li>sudo ./waf install</li>
 
 <pre>
 root@bertopeng17-ThinkPad-T520:/home/bertopeng17/ndnSIM/NLSR# <b>./waf configure</b>
