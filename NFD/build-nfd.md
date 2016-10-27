@@ -10,6 +10,11 @@ Execute the following commands to build NLSR:
 <pre>
 root@bertopeng17-ThinkPad-T520:/home/bertopeng17/NFD# <b>./waf configure</b>
 </pre>
+<pre>
+root@bertopeng17-ThinkPad-T520:/home/bertopeng17/NFD# <b>./waf</b>
+</pre>
+
+
 ![alt tag](https://github.com/Telmat2015/NDNWork/blob/master/NFD/image/Screenshot%20from%202016-10-27%2022-03-15.png)
 ![alt tag](https://github.com/Telmat2015/NDNWork/blob/master/NFD/image/Screenshot%20from%202016-10-27%2022-04-50.png)
 
