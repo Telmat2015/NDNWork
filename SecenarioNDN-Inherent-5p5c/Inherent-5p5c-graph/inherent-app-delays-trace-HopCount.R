@@ -20,18 +20,11 @@ Node.manado           = subset(data, Node %in% c("manado"))
 Node.palangkaraya     = subset(data, Node %in% c("palangkaraya"))
 Node.palembang        = subset(data, Node %in% c("palembang"))
 
-# exlude irrelevant types
-Node.jayapura         = subset(data, Type %in% c("FullDelay"))
-Node.surabaya         = subset(data, Type %in% c("FullDelay"))
-Node.manado           = subset(data, Type %in% c("FullDelay"))
-Node.palangkaraya     = subset(data, Type %in% c("FullDelay"))
-Node.palembang        = subset(data, Type %in% c("FullDelay"))
-
-jayapura<-Node.jayapura$DelayS
-surabaya<-Node.surabaya$DelayS
-manado<-Node.surabaya$DelayS
-palangkaraya<-Node.surabaya$DelayS
-palembang<-Node.surabaya$DelayS
+jayapura<-Node.jayapura$HopCount
+surabaya<-Node.surabaya$HopCount
+manado<-Node.surabaya$HopCount
+palangkaraya<-Node.surabaya$HopCount
+palembang<-Node.surabaya$HopCount
 
 png("/home/ardi/Desktop/Rcrot/inherent-app-delays-trace-HopCount.png", width=1280, height=720)
 
