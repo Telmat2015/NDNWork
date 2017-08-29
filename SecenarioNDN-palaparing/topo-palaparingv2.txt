@@ -1,0 +1,441 @@
+router
+
+# Area 1 (Sumatera)
+#-----------------------------------------------------------------------------|
+# node  	comment	(y)latitude	(x)longitude
+#-----------------------------------------------------------------------------|
+sabang	NA	5.880301 95.336743         
+aceh 	NA	5.547771 95.318056
+lhokseumawe	NA	5.181460 97.142995
+blangpidie	NA	3.743392 96.832164
+simeuleu	NA	2.643890 96.028483		
+medan  	NA	3.593621 98.683212	  
+singkil	NA	2.283772 97.807299	
+gunungsitoli	NA	1.278073 97.611325	 
+padang	NA	-0.950506 100.420095		
+mentawai	NA	-1.331641 98.905331		
+pekanbaru	NA	0.506581 101.442546
+bengkalis	NA	1.457797 102.390599
+kepmeranti	NA	3.092392 99.616396
+batam	NA	1.047928 104.031796
+lingga	NA	-0.163212 104.639649
+singapore	NA	1.355862 103.852358
+tarempa	NA	3.220665 106.222786	
+natuna	NA	4.000471 108.249979
+jambi	NA	-1.609405 103.612272
+palembang	NA	-2.976217 104.786296
+bengkulu	NA	-3.881536 102.311968
+pagaralam	NA	-4.042366 103.227296
+baturaja	NA	-4.123312 104.145826	
+pulaubangka	NA	-2.286877 106.066043	
+pulaubelitung	NA	-2.865273 107.934669
+lampung	NA	-5.400549 105.267988
+#-----------------------------------------------------------------------------|
+
+
+# Area 2 (Jawa)
+#-----------------------------------------------------------------------------|
+# node	comment	(y)latitude	x)longitude
+#-----------------------------------------------------------------------------|	
+serang	NA	-6.110482	106.164684				
+jakarta	NA	-6.367999	106.829741		
+kseribu	NA	-5.798953	106.499967	
+bandung	NA	-6.917062	107.612244
+subangopt1	NA	-6.562506	107.762554	
+cirebon	NA	-6.731957	108.552837	
+pklonganopt2	NA	-6.890828	109.672100
+purwokerto	NA	-7.424657	109.230303	
+semarang	NA	-7.005007	110.431204	
+jogjakarta	NA	-7.823697	110.426805	
+gunungkidul	NA	-7.955764	110.595278			
+ponorogo	NA	-7.866675	111.467588
+surabaya	NA	-7.256549	112.746003
+malang	NA	-7.967759	112.627316
+probolinggo	NA	-7.917597	113.172203
+situbondo	NA	-7.705290	113.995737
+banyuwangi	NA	-8.219256	114.368088
+karangasem	NA	-8.446153	115.613121
+denpasar	NA	-8.669622	115.213274
+mataram	NA	-8.577688	116.102695
+#-----------------------------------------------------------------------------|
+
+
+
+# Area 3 (kalimantan)
+#-----------------------------------------------------------------------------|
+# node	comment     	(y)latitude	(x)longitude
+#-----------------------------------------------------------------------------|	
+pontianak	NA	-0.027155	109.336353
+semitau	NA	0.637353	111.827898		
+ketapang	NA	-1.858787	109.971901
+javaseaopt1	NA	-3.420812	109.478200
+javaseaopt2	NA	-4.155482	112.038555
+palangkaraya	NA	-2.216905	113.906811		
+banjarmasin	NA	-3.319651	114.600981	
+tanahgrogot	NA	-1.860550	116.242899
+balikpapan	NA	-1.182216	116.758935
+samarinda	NA	-0.496316	117.144002
+kutaibarat	NA	-0.147630	115.765570
+tebangan	NA	0.927875	117.449093
+tarakan	NA	3.326708	117.579588
+nunukan	NA	4.140291	117.649422
+bunyu	NA	3.519133	117.816996
+#-----------------------------------------------------------------------------|
+		
+# Area 4 (Sulawesi)
+#-----------------------------------------------------------------------------|
+# node	comment     	(y)latitude	(x)longitude
+#-----------------------------------------------------------------------------|	
+donggala	NA	-0.679774	119.739535	
+tolitoliopt1	NA	0.809741	120.875398	
+poso	NA	-1.395502	120.753751
+morowaliopt2	NA	-1.758801	120.865378			
+gorontalo	NA	0.684602	122.388756			
+manado	NA	1.475225	124.839435		
+luwuk	NA	-0.942669	122.795996	
+boneboneopt3	NA	-2.563702	120.536774	
+torajaopt4	NA	-3.204835	119.773980
+banggai	NA	-1.597258	123.515504	
+kotamobagu	NA	0.723632	124.324113
+ondongsiau	NA	2.748327	125.364072
+tahuna	NA	3.611417	125.485509
+talaud	NA	4.333691	126.837321
+kendari	NA	-3.999774	122.518159
+bombana	NA	-4.516067	 121.727692
+muna	NA	-4.897797	122.626739
+baubau	NA	-5.470378	122.596551
+burangga	NA	-4.825822	122.990172
+wakatobi	NA	-5.324190	123.536379
+parepare	NA	-4.009540	119.628362
+makasar	NA	-5.147719	119.437921
+selayar	NA	-6.095620	120.504282
+#-----------------------------------------------------------------------------|
+
+
+# Area 5 (maluku)
+#-----------------------------------------------------------------------------|
+# node	comment	(y)latitude	(x)longitude
+#-----------------------------------------------------------------------------|	
+ambon	NA	-3.653539	128.203674
+serambarat	NA	-2.887918	128.432724
+pulauburu	NA	-3.399833	126.797789
+bandaseaopt1	NA	-3.085061	127.317022
+bandaseaopt2	NA	-1.062706	126.558477
+bandaseaopt3	NA	0.232557	126.443743
+bandaseaopt4	NA	1.079814	126.483214
+ternate	NA	0.797091	127.363005
+halmaheratim	NA	1.318568	128.485410	
+pulaumorotai	NA	2.367366	128.412244
+palamea	NA	-0.365864	127.144339
+tual	NA	-5.557870	132.332665
+aru	NA	-6.165299	134.472651
+seumlaki	NA	-8.057427	131.204510
+#-----------------------------------------------------------------------------|
+
+
+# Area 6 (nusatenggara)
+#-----------------------------------------------------------------------------|
+# node	comment	(y)latitude	(x)longitude
+#-----------------------------------------------------------------------------|	
+bima	NA	-8.673028	118.846417
+labuanbajo	NA	-8.542408	119.948315
+ende	NA	-8.854164	121.654104
+waingapu	NA	-9.662510	120.266910
+savuseaopt1	NA	-9.024729	119.699239
+kupang	NA	-10.178726	123.600776
+seba	NA	-10.448783	121.880112
+pulaurote	NA	-10.699067	123.122109
+atambua	NA	-9.100825	124.890967
+larantuka	NA	-8.287911	123.019306
+tiakur	NA	-7.784590	126.347705
+pulaualor	NA	-8.275356	124.732928
+#-----------------------------------------------------------------------------|
+
+# Area 7 (papua)
+#-----------------------------------------------------------------------------|
+# node	comment	(y)latitude	(x)longitude
+#-----------------------------------------------------------------------------|	
+rajaampat	NA	-0.121046	131.045509
+sorong	NA	-0.882101	131.287513
+teminabuan	NA	-1.406049	132.037634
+kumurkek	NA	-1.255146	132.516752	
+tabrauw	NA	-0.384140	132.338480
+telukbintuni	NA	-2.116356	133.533290
+fakfak	NA	-2.890837	132.269447
+supiori	NA	-0.689540	135.631311
+pulaunum	NA	-1.501356	135.194146
+pacificopt3	NA	-1.686291	134.887611
+pacificopt1	NA	-1.386296	137.911546
+teba	NA	-1.491935	137.899158
+pulauyapen	NA	-1.745033	136.179451
+waropen	NA	-2.695633	136.675451
+memberamoraya	NA	-2.298709	137.823866
+telukwondama	NA	-2.910192	134.470719
+dogiyai	NA	-4.062828	135.083755
+nabire	NA	-3.372485	135.503837
+intanjaya	NA	-3.514856	136.713402
+tiom	NA	-4.037970	137.511928
+puncakjaya	NA	-4.079259	137.140977
+ilaga	NA	-3.901615	138.372541
+enorotali	NA	-3.952042	136.390414
+timika	NA	-4.544518	136.883763
+arafuraopt2	NA	-5.533370	136.756179
+agats	NA	-5.526669	138.121873
+tolikara	NA	-3.505057	138.389528
+jayapura	NA	-2.592231	140.668321
+yalimo	NA	-3.799246	139.457025
+keerom	NA	-3.039405	140.680120
+wamena	NA	-4.090208	138.925633
+nduga	NA	-4.270952	138.081723
+yahukimo	NA	-4.438537	139.537475
+pegbintang	NA	-4.548723	140.559885
+tanahmerah	NA	-6.080033	140.277728
+keppimappi	NA	-6.514008	139.317034
+merauke	NA	-8.498872	140.402863
+#-----------------------------------------------------------------------------|
+
+
+
+
+#------------------------------------------------------------------------------|
+
+
+# link section defines point-to-point links between nodes and characteristics of these links
+link
+
+# link area1 (sumatera)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+sabang	aceh	20Mbps	1	10ms	20
+aceh	lhokseumawe	155Mbps	1	10ms	20
+aceh	blangpidie	20Mbps	1	10ms	20
+blangpidie	simeuleu	8Mbps	1	10ms	20
+simeuleu	gunungsitoli	8Mbps	1	10ms	20
+lhokseumawe	medan	155Mbps	1	10ms	20
+medan	blangpidie	20Mbps	1	10ms	20
+medan	singkil	20Mbps	1	10ms	20
+singkil	gunungsitoli	20Mbps	1	10ms	20
+gunungsitoli	mentawai	20Mbps	1	10ms	20
+singkil	padang	20Mbps	1	10ms	20
+padang	mentawai	20Mbps	1	10ms	20
+padang	pekanbaru	155Mbps	1	10ms	20
+padang	bengkulu	155Mbps	1	10ms	20
+pekanbaru	medan	155Mbps	1	10ms	20
+pekanbaru	bengkalis	20Mbps	1	10ms	20
+bengkalis	batam	20Mbps	1	10ms	20
+bengkalis	singapore	155Mbps	1	10ms	20
+batam	singapore	155Mbps	1	10ms	20
+batam	kepmeranti	20Mbps	1	10ms	20
+batam	tarempa	20Mbps	1	10ms	20
+batam	pontianak	155Mbps	1	10ms	20
+batam	lingga	8Mbps	1	10ms	20
+batam	pulaubangka	155Mbps	1	10ms	20
+tarempa	natuna	8Mbps	1	10ms	20
+pekanbaru	jambi	20Mbps	1	10ms	20
+jambi	palembang	20Mbps	1	10ms	20
+palembang	baturaja	20Mbps	1	10ms	20
+palembang	pulaubangka	155Mbps	1	10ms	20
+pulaubangka	jakarta	155Mbps	1	10ms	20
+baturaja	lampung	20Mbps	1	10ms	20
+baturaja	pagaralam	8Mbps	1	10ms	20
+pagaralam	bengkulu	8Mbps	1	10ms	20
+lampung	bengkulu	155Mbps	1	10ms	20
+
+#-----------------------------------------------------------------------------|
+
+
+# link area2 (jawa)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+serang	lampung	155Mbps	1	10ms	20
+serang	jakarta	155Mbps	1	10ms	20
+jakarta	kseribu	20Mbps	1	10ms	20
+jakarta	cirebon	20Mbps	1	10ms	20
+jakarta	subangopt1	20Mbps	1	10ms	20
+subangopt1	cirebon	20Mbps	1	10ms	20
+subangopt1	bandung	20Mbps	1	10ms	20
+cirebon	pklonganopt2	20Mbps	1	10ms	20
+pklonganopt2	semarang	20Mbps	1	10ms	20
+pklonganopt2	purwokerto	20Mbps	1	10ms	20
+purwokerto	jogjakarta	20Mbps	1	10ms	20
+jogjakarta	semarang	155Mbps	1	10ms	20
+jogjakarta	gunungkidul	20Mbps	1	10ms	20
+jogjakarta	ponorogo	20Mbps	1	10ms	20
+ponorogo	surabaya	20Mbps	1	10ms	20
+surabaya	semarang	155Mbps	1	10ms	20
+surabaya	makasar	155Mbps	1	10ms	20
+surabaya	malang	20Mbps	1	10ms	20
+malang	probolinggo	20Mbps	1	10ms	20
+probolinggo	situbondo	20Mbps	1	10ms	20
+probolinggo	banyuwangi	20Mbps	1	10ms	20
+banyuwangi	denpasar	155Mbps	1	10ms	20
+situbondo	karangasem	20Mbps	1	10ms	20
+karangasem	mataram	20Mbps	1	10ms	20
+karangasem	denpasar	20Mbps	1	10ms	20
+#-----------------------------------------------------------------------------|
+
+
+# link area3 (kalimantan)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+pontianak	semitau	20Mbps	1	10ms	20
+pontianak	pulaubelitung	20Mbps	1	10ms	20
+pulaubelitung	jakarta	155Mbps	1	10ms	20
+pontianak	javaseaopt1	20Mbps	1	10ms	20
+javaseaopt1	ketapang	20Mbps	1	10ms	20
+javaseaopt1	javaseaopt2	20Mbps	1	10ms	20
+javaseaopt2	palangkaraya	20Mbps	1	10ms	20
+javaseaopt2	banjarmasin	20Mbps	1	10ms	20
+banjarmasin	tanahgrogot	20Mbps	1	10ms	20
+tanahgrogot	kutaibarat	20Mbps	1	10ms	20
+tanahgrogot	balikpapan	20Mbps	1	10ms	20
+balikpapan	samarinda	20Mbps	1	10ms	20
+samarinda	tebangan	20Mbps	1	10ms	20
+tebangan	tarakan	20Mbps	1	10ms	20
+tarakan	nunukan	8Mbps	1	10ms	20
+tarakan	bunyu	8Mbps	1	10ms	20
+banjarmasin	surabaya	155Mbps	1	10ms	20
+banjarmasin	makasar	155Mbps	1	10ms	20
+tebangan	donggala	155Mbps	1	10ms	20
+#-----------------------------------------------------------------------------|
+
+# link area4 (sulawesi)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+donggala	tolitoliopt1	20Mbps	1	10ms	20
+donggala	morowaliopt2	20Mbps	1	10ms	20
+donggala	torajaopt4	20Mbps	1	10ms	20
+tolitoliopt1	gorontalo	20Mbps	1	10ms	20
+tolitoliopt1	poso	20Mbps	1	10ms	20
+gorontalo	manado	20Mbps	1	10ms	20
+manado	kotamobagu	20Mbps	1	10ms	20
+manado	ondongsiau	8Mbps	1	10ms	20
+ondongsiau	tahuna	8Mbps	1	10ms	20
+tahuna	talaud	8Mbps	1	10ms	20
+manado	bandaseaopt4	20Mbps	1	10ms	20
+kotamobagu	luwuk	8Mbps	1	10ms	20
+luwuk	banggai	8Mbps	1	10ms	20
+luwuk	morowaliopt2	8Mbps	1	10ms	20
+morowaliopt2	boneboneopt3	8Mbps	1	10ms	20
+boneboneopt3	torajaopt4	8Mbps	1	10ms	20
+boneboneopt3	kendari	8Mbps	1	10ms	20
+torajaopt4	parepare	8Mbps	1	10ms	20
+torajaopt4	makasar	8Mbps	1	10ms	20
+parepare	makasar	8Mbps	1	10ms	20
+makasar	selayar	8Mbps	1	10ms	20
+makasar	ende	20Mbps	1	10ms	20
+kendari	baubau	20Mbps	1	10ms	20
+bombana	muna	8Mbps	1	10ms	20
+muna	baubau	8Mbps	1	10ms	20
+baubau	wakatobi	8Mbps	1	10ms	20
+baubau	burangga	8Mbps	1	10ms	20
+#-----------------------------------------------------------------------------|
+
+# link area5 (maluku)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+ambon	kendari	20Mbps	1	10ms	20
+ambon	serambarat	8Mbps	1	10ms	20
+ambon	fakfak	20Mbps	1	10ms	20
+ambon	bandaseaopt1	8Mbps	1	10ms	20
+bandaseaopt1	pulauburu	8Mbps	1	10ms	20
+bandaseaopt1	bandaseaopt2	8Mbps	1	10ms	20
+bandaseaopt2	sorong	8Mbps	1	10ms	20
+bandaseaopt2	bandaseaopt3	8Mbps	1	10ms	20
+bandaseaopt3	palamea	8Mbps	1	10ms	20
+bandaseaopt3	bandaseaopt4	8Mbps	1	10ms	20
+bandaseaopt4	ternate	20Mbps	1	10ms	20
+ternate	halmaheratim	8Mbps	1	10ms	20
+ternate	pulaumorotai	155Mbps	1	10ms	20
+#-----------------------------------------------------------------------------|
+
+
+# link area6 (nusatenggara)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+labuanbajo	ende	20Mbps	1	10ms	20
+ende	savuseaopt1	8Mbps	1	10ms	20
+savuseaopt1	waingapu	8Mbps	1	10ms	20
+savuseaopt1	bima	8Mbps	1	10ms	20
+bima	mataram	20Mbps	1	10ms	20
+ende	larantuka	20Mbps	1	10ms	20
+ende	kupang	155Mbps	1	10ms	20
+kupang	pulaurote	8Mbps	1	10ms	20
+pulaurote	seba	8Mbps	1	10ms	20
+kupang	atambua	20Mbps	1	10ms	20
+atambua	pulaualor	8Mbps	1	10ms	20
+pulaualor	larantuka	8Mbps	1	10ms	20
+pulaualor	tiakur	20Mbps	1	10ms	20
+larantuka	ende	20Mbps	1	10ms	20
+#-----------------------------------------------------------------------------|
+
+# link area7 (papua)
+#-----------------------------------------------------------------------------|
+# srcNode	dstNode     	bandwidth   metric	delay	queue
+#-----------------------------------------------------------------------------|
+rajaampat	sorong	8Mbps	1	10ms	20
+sorong	teminabuan	8Mbps	1	10ms	20
+sorong	pulaunum	8Mbps	1	10ms	20
+sorong	telukbintuni	8Mbps	1	10ms	20
+teminabuan	kumurkek	8Mbps	1	10ms	20
+kumurkek	tabrauw	8Mbps	1	10ms	20
+pulaunum	rajaampat	8Mbps	1	10ms	20
+pulaunum	pacificopt1	8Mbps	1	10ms	20
+pacificopt1	teba	8Mbps	1	10ms	20
+pacificopt1	jayapura	20Mbps	1	10ms	20
+jayapura	keerom	8Mbps	1	10ms	20
+keerom	yalimo	8Mbps	1	10ms	20
+yalimo	pegbintang	8Mbps	1	10ms	20
+pegbintang	tanahmerah	8Mbps	1	10ms	20
+tanahmerah	merauke	8Mbps	1	10ms	20
+tanahmerah	keppimappi	8Mbps	1	10ms	20
+keppimappi	agats	8Mbps	1	10ms	20
+arafuraopt2	agats	8Mbps	1	10ms	20
+arafuraopt2	timika	8Mbps	1	10ms	20
+arafuraopt2	merauke	20Mbps	1	10ms	20
+timika	aru	20Mbps	1	10ms	20
+timika	fakfak	20Mbps	1	10ms	20
+aru	tual	8Mbps	1	10ms	20
+aru	seumlaki	8Mbps	1	10ms	20
+seumlaki	tiakur	20Mbps	1	10ms	20
+pegbintang	yahukimo	8Mbps	1	10ms	20
+pegbintang	yalimo	8Mbps	1	10ms	20
+yahukimo	keerom	8Mbps	1	10ms	20
+telukwondama	pacificopt3	8Mbps	1	10ms	20
+pacificopt3	pulaunum	8Mbps	1	10ms	20
+pulaunum	supiori	8Mbps	1	10ms	20
+pacificopt3	pulauyapen	20Mbps	1	10ms	20
+pulauyapen	waropen	8Mbps	1	10ms	20
+waropen	memberamoraya	8Mbps	1	10ms	20
+waropen	nabire	8Mbps	1	10ms	20
+nabire	dogiyai	8Mbps	1	10ms	20
+nabire	intanjaya	8Mbps	1	10ms	20
+intanjaya	enorotali	8Mbps	1	10ms	20
+intanjaya	puncakjaya	8Mbps	1	10ms	20
+puncakjaya	tiom	8Mbps	1	10ms	20
+tiom	ilaga	8Mbps	1	10ms	20
+yalimo	tolikara	8Mbps	1	10ms	20
+enorotali	timika	8Mbps	1	10ms	20
+ilaga	tolikara	8Mbps	1	10ms	20
+ilaga	wamena	8Mbps	1	10ms	20
+wamena	nduga	8Mbps	1	10ms	20
+nduga	yahukimo	8Mbps	1	10ms	20
+
+
+
+#-----------------------------------------------------------------------------|
+
+
+
+
+
+
+
+
+
